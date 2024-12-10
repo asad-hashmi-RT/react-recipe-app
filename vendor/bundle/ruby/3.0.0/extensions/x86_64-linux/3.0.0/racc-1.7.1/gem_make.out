@@ -1,0 +1,17 @@
+current directory: /var/www/html/rails_react_recipe/vendor/bundle/ruby/3.0.0/gems/racc-1.7.1/ext/racc/cparse
+/usr/local/rvm/rubies/ruby-3.0.1/bin/ruby -I /usr/local/rvm/rubies/ruby-3.0.1/lib/ruby/3.0.0 -r ./siteconf20230725-68210-wsobiq.rb extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /var/www/html/rails_react_recipe/vendor/bundle/ruby/3.0.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\= clean
+
+current directory: /var/www/html/rails_react_recipe/vendor/bundle/ruby/3.0.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\=
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /var/www/html/rails_react_recipe/vendor/bundle/ruby/3.0.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\= install
+/usr/bin/install -m 0755 cparse.so ./.gem.20230725-68210-h63mk4/racc
